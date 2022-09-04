@@ -7,7 +7,7 @@ int main()
 	cout<<"Enter value \n";
 	cin>>n;
 	if(n%2 == 0)  
-    	cout<<"It's even";
+    		cout<<"It's even";
 	else       
 		cout<<"It's odd";
 		
